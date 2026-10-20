@@ -1,0 +1,11 @@
+{
+  "name": "notepulse",
+  "owner": { "name": "Diego Silva" },
+  "plugins": [
+    {
+      "name": "notepulse",
+      "source": "./plugin",
+      "description": "Meeting copilot: local live transcription, in-meeting interventions and end-of-meeting notes"
+    }
+  ]
+}
